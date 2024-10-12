@@ -1,6 +1,7 @@
 {
   "name": "tictactoe-test",
   "version": "0.1.0",
+  "homepage": "https://HafizuddinSharif.github.io/tictactoe-test",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -34,5 +35,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "gh-pages": "^6.2.0",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13"
   }
 }
